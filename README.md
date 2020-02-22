@@ -72,8 +72,7 @@ The program operates in the same manner as the level 3 program, but instead of u
 #### 5. Search for an exact match of a DNA query string.
          Example: Search16s -level5 16S.fasta CTGGTACGGTCAACTTGCTCTAAG
          
-         For instance:
-         Program output:
+         Example program output:
          NR_115365.1
          NR_123456.1
          NR_118941.1
@@ -83,8 +82,7 @@ The program operates in the same manner as the level 3 program, but instead of u
 #### 6. Search for a sequence meta-data containing a given word.
          Example: Search16s -level6 16S.fasta Streptomyces
          
-         For instance:
-         Program output:
+         Example program output:
          NR_026530.1
          NR_026529.1
          NR_119348.1
