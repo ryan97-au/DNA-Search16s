@@ -1,7 +1,5 @@
 # Genomic Sequence Retrieval
 
-****
-
 ## Background
 NCBI: “The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. The NCBI is located in Bethesda…” (follow the link (https://www.ncbi.nlm.nih.gov/) to learn more background information)
 
@@ -22,8 +20,6 @@ There is one complication with the file format that you must be aware of, and ov
 `ATTCTGGTTGATCCTGCCAGAGGCCGCTGCTATCCGGCTGGGACTAAGCCATGCGAGTCAAGGGGCTTGTATCCCTTCGGGGATGCAAGCACCGGCGGACGGCTCAGTAACACGTGGACAACCTGCCCTCGGGTGGGGGATAACCCCGGGAAACTGGGGCTAATCCCCCATAGG…`
 
 When considering the solutions to the access requirements, bear this in mind, lest the search miss some sequence metadata.
-
-****
 
 ## Requirements
 An important mandatory requirement is that the 16S.fasta file must not be loaded into memory – the search is disk based. This is because in the intended applications the file size may be too large to fit in memory, or some other resource constraints prevent the application from having access to enough memory –e.g. in a shared environment.
