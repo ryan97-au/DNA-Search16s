@@ -1,0 +1,7 @@
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\bin\Debug\Search16s.exe.config
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\bin\Debug\Search16s.exe
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\bin\Debug\Search16s.pdb
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\obj\Debug\Search16s.csprojAssemblyReference.cache
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\obj\Debug\Search16s.csproj.CoreCompileInputs.cache
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\obj\Debug\Search16s.exe
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\Search16s\obj\Debug\Search16s.pdb

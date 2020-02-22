@@ -1,0 +1,7 @@
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\bin\Debug\IndexSequence16s.exe.config
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\bin\Debug\IndexSequence16s.exe
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\bin\Debug\IndexSequence16s.pdb
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\obj\Debug\IndexSequence16s.csprojAssemblyReference.cache
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\obj\Debug\IndexSequence16s.csproj.CoreCompileInputs.cache
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\obj\Debug\IndexSequence16s.exe
+C:\Users\Zhuan\OneDrive\桌面\CAB201\Assignment\Assignment - DNA Search\Search16s\IndexSequence16s\obj\Debug\IndexSequence16s.pdb
